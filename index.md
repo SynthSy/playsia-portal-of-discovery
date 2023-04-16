@@ -1,9 +1,6 @@
 ---
-layout: page
+layout: default
 title: "Setup Discovery Freelancer"
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme
 ---
 
 # Getting started on PlaYsiA's Discovery server
@@ -19,4 +16,4 @@ plugins:
 	5. In the new window on the left, select **Turn Windows features on or off**
 	6. Enable **.NET Framework 3.5 (includes .NET 2.0 and 3.0)** & under **Legacy Components**, enable **DirectPlay**
 	7. Click on OK to apply
-![Windows Features](/assets/instructions1.PNG Windows Features menu)
+![Windows Features](/assets/instructions1.png Windows Features menu)

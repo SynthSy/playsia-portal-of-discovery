@@ -1,15 +1,23 @@
 lsi: false
 safe: true
-source: /
+source: .
 title: PlaYsiA's Discovery
 description: An Australian Discovery Freelancer with PvP
 incremental: false
 highlighter: rouge
+layouts_dir: _layouts
+data_dir: _data
+includes_dir: _includes
+sass:
+  sass_dir: _sass
 gist:
   noscript: false
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
+collections:
+  posts:
+    output: true
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
