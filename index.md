@@ -1,6 +1,9 @@
 ---
 layout: page
 title: "Setup Discovery Freelancer"
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
 ---
 
 # Getting started on PlaYsiA's Discovery server
