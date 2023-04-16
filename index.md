@@ -5,8 +5,7 @@ title: "Setup Discovery Freelancer"
 
 # Getting started on PlaYsiA's Discovery server
 
-## Initial Setup
-### Grabbing the latest .NET Framework & Enabling DirectPlay
+## Grabbing the latest .NET Framework & Enabling DirectPlay
 1. Download & install the latest version of the .NET Framework [from this link](https://www.microsoft.com/net/download/framework).
 2. Enable .NET Framework 3.5 & DirectPlay by doing the following:
 	1. Right click your **Start Menu** icon
@@ -17,4 +16,8 @@ title: "Setup Discovery Freelancer"
 	6. Enable **.NET Framework 3.5 (includes .NET 2.0 and 3.0)** & under **Legacy Components**, enable **DirectPlay**
 	7. Click on OK to apply
 
-![Windows Features](/assets/instructions1.png "Windows Features menu")
+![Windows Features](./assets/instructions1.png "Windows Features menu")
+
+## Install Freelancer
+1. Obtain the Freelancer ISO [from this link](https://archive.org/download/Freelancer_201807/Freelancer.iso).
+2. Install as Administrator to your desired location (click next & stuff)
